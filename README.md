@@ -1,7 +1,8 @@
 # Model for AD/AChE/MAO-A/5-HT6
 Screening models for potential AD/AChE/MAO-A/5-HT6 inhibitors based on Chemprope .
+Models path: <https://drive.google.com/drive/folders/12m_i4n3DLLLHIG1l-ZnxN50TFxSv9Rgw?usp=drive_link>
 
-###Project Introduction
+Project Introduction
 This project is a code replication of the paper "Deep learning-based drug screening for the discovery of potential therapeutic agents for Alzheimer's disease" <https://www.sciencedirect.com/science/article/pii/S2095177924001199>.
 
 This project leverages a directed message passing neural network (D-MPNN) to capture the relationship between molecular structures and biological activities, enabling the prediction of molecules with desired properties.
